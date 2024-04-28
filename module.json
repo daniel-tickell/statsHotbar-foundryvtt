@@ -1,6 +1,6 @@
 {
   "id": "module",
-  "title": "New Module",
+  "title": "Quick Stats Hotbar",
   "description": "",
   "version": "#{VERSION}#",
   "library": "false",
@@ -12,9 +12,9 @@
   },
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "Daniel Tickell",
+      "url": "https://github.com/daniel-tickell",
+      "discord": "discordID#KM6MZM"
     }
   ],
   "relationships": {
