@@ -37,11 +37,11 @@
       "path": "languages/en.json"
     }
   ],
-  "url": "#{URL}#",
-  "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#",
+  "url": "https://github.com/daniel-tickell/statsHotbar-foundryvtt",
+  "manifest": "https://github.com/daniel-tickell/statsHotbar-foundryvtt/master/module.json",
+  "download": "https://github.com/daniel-tickell/statsHotbar-foundryvtt/archive/refs/heads/master.zip",
   "license": "LICENSE",
-  "readme": "README.md",
+  "readme": "https://github.com/daniel-tickell/statsHotbar-foundryvtt#README.md",
   "media": [
     {
       "type": "icon",
